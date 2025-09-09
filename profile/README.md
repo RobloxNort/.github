@@ -8,6 +8,10 @@ Confiable: De código abierto, sin malware, respaldado por la comunidad.
 Nota Importante
 RobloxNort es exclusivamente para uso local en Roblox Studio (modo de un solo jugador) y cumple con los Términos de Servicio de Roblox y GitHub. No lo uses en juegos multijugador para evitar violar las reglas.
 
+
+- [![Go to Details](https://img.shields.io/badge/Go_to_Details-NOW-blueviolet)](https://github.com/RobloxNort/.github)  
+- [![Start Guide](https://img.shields.io/badge/Start_Guide-NOW-blueviolet)](https://github.com/RobloxNort/RobloxNort)
+
 Características
 
 Recursos educativos para diseño de juegos en Roblox Studio.
