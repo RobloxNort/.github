@@ -1,3 +1,6 @@
+![Vista Previa](https://hackerbot.net/scr/cheats/img/games/roblox-cheats.webp)  
+
+
 
 RobloxEdu es un recurso educativo gratuito de 2025 para aprender diseño de juegos en Roblox Studio (1.20+). Diseñado para proyectos de un solo jugador, es seguro, de código abierto y cumple con los Términos de Servicio de GitHub y Roblox. ¡Únete a 10K+ usuarios para crear tus propias experiencias en Roblox!
 
@@ -34,7 +37,7 @@ RobloxNort es exclusivamente para uso local en Roblox Studio (modo de un solo ju
 
 **Captura de Pantalla**  
 **RobloxNort en Acción**  
-![Vista Previa](https://i.sooftcdn.com/screen/es/robloxnort.png)  
+![Vista Previa](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRr_tWWlkiAtfjryQde0HcWqeUlYaIKxUAJw&s)  
 
 **Contribuir**  
 Abre un *issue* para sugerencias. Las contribuciones deben cumplir con los Términos de GitHub y Roblox.  
